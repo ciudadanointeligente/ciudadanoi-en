@@ -3,7 +3,7 @@ title: Globo Ciudadano
 date: 2011-08-01 14:46:22
 img: globo.png
 thumb: globo-thumb.png
-description: Elevamos un globo a 20 metros de altura amarrado a un celular 3G con video, para traerte la imagen real de lo que ocurre en las marchas.
+description: Elevamos un globo a 20 metros de altura amarrado a un celular 3G con video, para traerte la imagen real de lo que ocurre en las marchas. We raise a balloon 20 meters of height and tie it to to a cellular 3G to bring you the real image of what happens in marches. 
 site_url: /project/2011/08/01/globo/
 status: archivado
 ---

@@ -3,7 +3,7 @@ title: Por qué en mi jardín
 date: 2011-11-01 14:46:22
 img: mijardin.png
 thumb: mijardin-thumb.png
-description: Programa de televisión que fomenta temas ciudadanos.
+description: Television program that promotes citizen themes. 
 site_url: /project/2011/11/01/mijardin/
 status: archivado
 ---
