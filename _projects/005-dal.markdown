@@ -3,7 +3,7 @@ title: Desarrollando América Latina
 date: 2014-08-01 14:46:22
 img: dal.png
 thumb: dal-thumb.png
-description: Desarrollando América Latina (DAL) impulsa una cultura y una comunidad de innovación y emprendimiento social en la región, usando el poder de la tecnología, los datos abiertos y la colaboración entre actores sociales como motor de cambio. Es así como impulsamos el desarrollo de aplicaciones innovadoras, sustentables, escalables y de alto impacto social gracias a nuestra gran comunidad de emprendedores, desarrolladores, diseñadores y mentes creativas, en conjunto a actores de Gobiernos y de organizaciones locales.
+description: Developing Latin America propels a culture and community of innovation and social undertaking in the region, using the power of technology, open data and the collaboration between social actors as a motor of change. In this we propel the development of innovative and sustainable applications that are of great social impact, thanks to our great community of entrepreneurs, developers, designers and creative minds, together with governmental actors and local organizations. 
 site_url: http://desarrollandoamerica.org
 status: activo
 ---

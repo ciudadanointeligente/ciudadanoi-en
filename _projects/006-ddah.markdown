@@ -3,7 +3,7 @@ title: Del dicho al hecho
 date: 2014-05-1 14:46:22
 img: ddah.png
 thumb: ddah-thumb.png
-description: Del Dicho al Hecho es un estudio que realiza un análisis detallado de las promesas establecidas por el Gobierno y una revisión del estado de cumplimiento legislativo y administrativo de éstas. Conscientes de las dificultades que tenemos los ciudadanos de ejercer nuestro derecho a exigir rendición de cuentas, nuestro estudio pretende empoderar a las personas y contribuir a la reducción de las brechas de información que hoy dificultan una fiscalización efectiva de nuestros representantes.
+description: Del Dicho al Hecho is a study that puts together a detailed analysis of the promises established by the government and reviews the status of its legislative and administrative fulfillment of these. Aware of the difficulties that we as citizens face to exercise our right to demand accountability, our study intends to empower citizens and to contribute to the reduction of the information gap that today has complicated an effective process of overseeing  our representatives. 
 site_url: http://deldichoalhecho.cl
 status: activo
 ---

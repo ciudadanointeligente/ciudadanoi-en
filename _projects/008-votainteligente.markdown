@@ -3,7 +3,7 @@ title: Votainteligente
 date: 2013-10-01 14:46:22
 img: votainteligente.png
 thumb: votainteligente-thumb.png
-description: Vota Inteligente es un espacio de información y comunicación entre ciudadanos y candidatos, al igual que una herramienta abierta y adaptable a todos los distintos escenarios electorales. Su objetivo principal es ayudar a resolver dudas respecto a las elecciones, abrir y explicar las propuestas de los candidatos, compararlos, escribirles dudas o inquietudes, así como también ser el lugar donde puedes encontrar a el/la candidato/a que mejor represente tus intereses individuales. Diseñado como un kit de herramientas ciudadanas, la interacción a través de sus componentes permite a la ciudadanía ejercer un rol activo más allá del acto de votar en las elecciones, abriendo otros canales de participación.
+description: Vota Inteligente is an informational and communicational space between citizens and candidates, as an open and adaptable tool to every different electoral scenario. Its fundamental objective is to help resolve doubts in respect to elections, open and explain candidates' proposals, compare them, and write questions or concerns. It also functions as the place where you can find the candidate that best represents your individual interests. It is designed as a citizen tool kit, interaction through its components allow citizens to exercise their active roles beyond the act of voting in elections, and opens other channels of participation. 
 site_url: http://votainteligente.cl
 status: activo
 ---
