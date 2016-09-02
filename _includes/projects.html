@@ -3,14 +3,14 @@
     <ul id="og-grid" class="og-grid">
         {% for project in site.projects %}
         <li>
-            <a href="{{ project.site_url }}" data-largesrc="img/projects/{{ project.img }}" data-title="{{ project.title }}" data-description="{{ project.description }}" data-siteurl="{{ project.site_url }}">
-                <img src="img/projects/thumbs/{{ project.thumb }}" alt="img/projects/{{ project.img }}"/>
+            <a href="{{ project.site_url }}" data-largesrc="/assets/img/projects/{{ project.img }}" data-title="{{ project.title }}" data-description="{{ project.description }}" data-siteurl="{{ project.site_url }}">
+                <img src="/assets/img/projects/thumbs/{{ project.thumb }}" alt="/assets/img/projects/{{ project.img }}"/>
                 <div class="{{ project.status }}">{{ project.status }}</div>
             </a>
         </li>
         {% endfor %}
     </ul>
-    <script src="{{ site.baseurl }}/js/grid.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/grid.js"></script>
     <script>
     $(function() {
     Grid.init();
