@@ -1,0 +1,11 @@
+---
+layout: projects-history
+proj_minisite: false
+proj_title: Quién te financia
+proj_date: 2013-11-01 14:46:22
+proj_img: qtf.png
+proj_thumb: qtf-thumb.png
+proj_description: Campaign that advocates for transparency within political financing in Chile, allowing citizens to ask candidates to reveal their donations. Petition of more than 6,000 people in order to modify and make more transparent this regulation.
+proj_site_url: http://quientefinancia.cl
+proj_status: activo
+---
