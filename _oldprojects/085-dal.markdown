@@ -1,0 +1,11 @@
+---
+layout: projects-history
+proj_minisite: false
+proj_title: Desarrollando América Latina
+proj_date: 2014-08-01 14:46:22
+proj_img: dal.png
+proj_thumb: dal-thumb.png
+proj_description: Developing Latin America propels a culture and community of innovation and social undertaking in the region, using the power of technology, open data and the collaboration between social actors as a motor of change. In this we propel the development of innovative and sustainable applications that are of great social impact, thanks to our great community of entrepreneurs, developers, designers and creative minds, together with governmental actors and local organizations.
+proj_site_url: http://desarrollandoamerica.org
+proj_status: activo
+---
